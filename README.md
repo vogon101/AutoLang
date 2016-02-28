@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Idea
 A way of automating tasks using a as-simple-as-possible programming language to make it easy, but that provides a more powerful system than IFTTT
 
@@ -20,3 +21,7 @@ actions like: `count` and `email`
 For example:
  * `post that to facebook` would be Action ( name = post, what = that (Instagram photo), where = facebook)
  * `let myNumber be the count of my instagram photos` would be Set ( name = myNumber, what = Action ( name = count, what = instagram photos ) )
+=======
+# AutoLang
+A simple programming language designed to be more like English
+>>>>>>> ef564333a187d4b8db14980a70a5c241c2fe59bf
