@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Idea
 A way of automating tasks using a as-simple-as-possible programming language to make it easy, but that provides a more powerful system than IFTTT
 
@@ -24,4 +23,3 @@ For example:
 =======
 # AutoLang
 A simple programming language designed to be more like English
->>>>>>> ef564333a187d4b8db14980a70a5c241c2fe59bf
